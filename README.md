@@ -2,7 +2,7 @@ MODIS-VIIRS-fires 🔥🛰️
 
 This repository provides data and code for processing and clustering fire detections from MODIS and VIIRS satellite instruments, with applications in identifying persistent combustion sources such as flares, burn pits, and wildfires near military and civilian locations.
 
-Reference paper is: Exposures to combustion sources near military operations in Iraq and Afghanistan using satellite observations
+Reference paper: Exposures to combustion sources near military operations in Iraq and Afghanistan using satellite observations
 
 🔍 Overview
 
